@@ -1,5 +1,5 @@
 %{
-#include "var.tab.h"
+#include "lexanalyser.tab.h"
 #include<string.h>
 #include <stdio.h>
 #include<stdlib.h>
